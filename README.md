@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/slekens"><img src="https://api.daily.dev/devcards/023054e145c74fdd8f48554cbd7c2bad.png?r=s79" width="400" alt="Abraham Abreu's Dev Card"/></a>
+
 <!--
 **slekens/slekens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
